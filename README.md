@@ -5,6 +5,9 @@
 Sentient Shield is a lightweight Chrome extension designed to prevent accidental exposure of sensitive information during everyday browsing and AI tool usage.
 
 ---
+![Screenshot 1](images/image.png)
+
+![Screenshot 2](images/image%20%282%29.png)
 
 ##  Problem
 
